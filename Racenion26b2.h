@@ -13,13 +13,14 @@
 #ifndef RACENION26B2_H_
 #define RACENION26B2_H_
 #include "wet2util.h"
+#include "DataStructures.h"
 
 
 class Racenion {
 private:
-	//
-	// Here you may add anything you need to implement your Racenion class
-	//
+	HashTable contestants;
+	AVLTree<int, Team*> teamsById;
+	AVLTree<MotivationKey, Team*> teamsByMotivation;
 
 public:
 	// <DO-NOT-MODIFY> {
