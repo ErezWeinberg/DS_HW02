@@ -102,7 +102,7 @@ output_t<int> Racenion::duel(int teamId1, int teamId2) {
         Team* t1 = teamsById.find(teamId1);
         Team* t2 = teamsById.find(teamId2);
         
-        if (!t1 || !t2) {
+        if (!t1 || !t2 || !t1->uf_root || !t2->uf_root) {
             return output_t<int>(StatusType::FAILURE);
         }
         

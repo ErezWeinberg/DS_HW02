@@ -323,16 +323,20 @@ struct MotivationKey {
 
 inline UFNode* find_root(UFNode* x) {
     if (!x) return nullptr;
-    if (x->parent != x) {
-        UFNode* y = x->parent;
-        UFNode* root = find_root(y);
-        
-        x->skill_multiplier = y->skill_multiplier * x->skill_multiplier;
-        x->missions_offset += y->missions_offset;
-        
-        x->parent = root;
+    if (x->parent == x) return x;
+    
+    UFNode* p = x->parent;
+    if (p->parent == p) {
+        return p;
     }
-    return x->parent;
+    
+    UFNode* root = find_root(p);
+    
+    x->skill_multiplier = p->skill_multiplier * x->skill_multiplier;
+    x->missions_offset += p->missions_offset;
+    
+    x->parent = root;
+    return root;
 }
 
 inline UFNode* union_trees(UFNode* rootA, UFNode* rootB, Skill total_A) {
