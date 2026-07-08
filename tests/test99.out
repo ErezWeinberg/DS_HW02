@@ -1,0 +1,1000 @@
+addTeam: SUCCESS
+addContestant: SUCCESS
+addContestant: SUCCESS
+addContestant: FAILURE
+addContestant: SUCCESS
+addContestant: FAILURE
+addTeam: SUCCESS
+addContestant: FAILURE
+addContestant: SUCCESS
+addTeam: SUCCESS
+addContestant: SUCCESS
+addTeam: SUCCESS
+addContestant: SUCCESS
+addTeam: SUCCESS
+addContestant: FAILURE
+addContestant: SUCCESS
+addContestant: SUCCESS
+addContestant: SUCCESS
+addContestant: SUCCESS
+addContestant: SUCCESS
+addTeam: SUCCESS
+addContestant: SUCCESS
+addTeam: FAILURE
+addTeam: SUCCESS
+addContestant: SUCCESS
+addContestant: SUCCESS
+addContestant: SUCCESS
+addContestant: SUCCESS
+addContestant: SUCCESS
+addTeam: SUCCESS
+addContestant: SUCCESS
+addContestant: SUCCESS
+addContestant: SUCCESS
+addTeam: SUCCESS
+addContestant: SUCCESS
+addContestant: SUCCESS
+addContestant: FAILURE
+addContestant: SUCCESS
+addContestant: FAILURE
+addTeam: SUCCESS
+addTeam: SUCCESS
+addContestant: SUCCESS
+addContestant: SUCCESS
+addContestant: SUCCESS
+addContestant: FAILURE
+addContestant: SUCCESS
+addContestant: SUCCESS
+addContestant: SUCCESS
+addContestant: SUCCESS
+addContestant: SUCCESS
+addContestant: SUCCESS
+addTeam: SUCCESS
+addContestant: SUCCESS
+addContestant: SUCCESS
+addTeam: SUCCESS
+addContestant: SUCCESS
+addTeam: SUCCESS
+addTeam: SUCCESS
+addTeam: SUCCESS
+addContestant: SUCCESS
+addContestant: SUCCESS
+addContestant: SUCCESS
+addContestant: SUCCESS
+addContestant: SUCCESS
+addContestant: SUCCESS
+addContestant: SUCCESS
+addTeam: SUCCESS
+addContestant: SUCCESS
+addTeam: SUCCESS
+addTeam: SUCCESS
+addTeam: SUCCESS
+addTeam: SUCCESS
+addContestant: SUCCESS
+addContestant: SUCCESS
+addContestant: SUCCESS
+addContestant: SUCCESS
+addContestant: SUCCESS
+addContestant: SUCCESS
+addContestant: SUCCESS
+addContestant: SUCCESS
+addContestant: SUCCESS
+addTeam: FAILURE
+addContestant: SUCCESS
+addContestant: SUCCESS
+addContestant: SUCCESS
+addTeam: SUCCESS
+addContestant: SUCCESS
+addContestant: FAILURE
+addContestant: SUCCESS
+addTeam: SUCCESS
+addContestant: SUCCESS
+addContestant: SUCCESS
+addContestant: SUCCESS
+addContestant: SUCCESS
+addContestant: SUCCESS
+addTeam: SUCCESS
+addTeam: SUCCESS
+addTeam: SUCCESS
+addContestant: SUCCESS
+addContestant: SUCCESS
+addTeam: SUCCESS
+addContestant: SUCCESS
+removeTeam: SUCCESS
+addTeam: SUCCESS
+getIthCollectiveMotivationTeam: FAILURE
+getTeamExperience: SUCCESS, 0
+duel: FAILURE
+addTeam: SUCCESS
+recruit: FAILURE
+getTeamExperience: SUCCESS, 0
+addTeam: SUCCESS
+getPartialTeamSkill: SUCCESS, [20309,1626;8045,10234]
+addTeam: SUCCESS
+getContestantMissionsNumber: FAILURE
+addTeam: SUCCESS
+addContestant: SUCCESS
+duel: FAILURE
+duel: SUCCESS, 3
+getContestantMissionsNumber: SUCCESS, 4
+removeTeam: SUCCESS
+getContestantMissionsNumber: SUCCESS, 10
+getTeamExperience: SUCCESS, 0
+duel: FAILURE
+duel: SUCCESS, 3
+removeTeam: SUCCESS
+recruit: FAILURE
+addContestant: SUCCESS
+getIthCollectiveMotivationTeam: SUCCESS, 905
+addTeam: SUCCESS
+recruit: FAILURE
+getTeamExperience: SUCCESS, 0
+addContestant: SUCCESS
+addTeam: SUCCESS
+addContestant: SUCCESS
+removeTeam: SUCCESS
+getPartialTeamSkill: SUCCESS, [9691,13932;17398,25653]
+getTeamExperience: SUCCESS, 0
+getPartialTeamSkill: SUCCESS, [250,300;348,276]
+recruit: FAILURE
+addTeam: SUCCESS
+removeTeam: SUCCESS
+getContestantMissionsNumber: FAILURE
+addContestant: SUCCESS
+duel: SUCCESS, 3
+addContestant: SUCCESS
+getContestantMissionsNumber: SUCCESS, 4
+addContestant: SUCCESS
+getPartialTeamSkill: FAILURE
+removeTeam: FAILURE
+addContestant: SUCCESS
+removeTeam: SUCCESS
+getContestantMissionsNumber: SUCCESS, 8
+duel: FAILURE
+getPartialTeamSkill: FAILURE
+getIthCollectiveMotivationTeam: FAILURE
+getIthCollectiveMotivationTeam: SUCCESS, 935
+duel: SUCCESS, 3
+removeTeam: SUCCESS
+addTeam: SUCCESS
+duel: SUCCESS, 3
+addTeam: SUCCESS
+addContestant: SUCCESS
+addContestant: SUCCESS
+getContestantMissionsNumber: SUCCESS, 10
+duel: SUCCESS, 3
+duel: FAILURE
+addContestant: SUCCESS
+getContestantMissionsNumber: SUCCESS, 1
+removeTeam: SUCCESS
+getContestantMissionsNumber: SUCCESS, 3
+getContestantMissionsNumber: FAILURE
+getPartialTeamSkill: SUCCESS, [18746,9701;26579,22979]
+addContestant: SUCCESS
+removeTeam: SUCCESS
+addTeam: SUCCESS
+getPartialTeamSkill: SUCCESS, [27777,6521;7237,12190]
+removeTeam: SUCCESS
+addContestant: SUCCESS
+removeTeam: SUCCESS
+removeTeam: SUCCESS
+getContestantMissionsNumber: SUCCESS, 0
+getIthCollectiveMotivationTeam: FAILURE
+removeTeam: SUCCESS
+addContestant: SUCCESS
+getTeamExperience: SUCCESS, 0
+duel: FAILURE
+getContestantMissionsNumber: SUCCESS, 0
+duel: SUCCESS, 3
+getContestantMissionsNumber: SUCCESS, 10
+recruit: FAILURE
+duel: FAILURE
+getContestantMissionsNumber: SUCCESS, 8
+addContestant: SUCCESS
+duel: FAILURE
+removeTeam: SUCCESS
+getContestantMissionsNumber: FAILURE
+getTeamExperience: SUCCESS, 0
+addContestant: SUCCESS
+removeTeam: SUCCESS
+getTeamExperience: SUCCESS, 0
+getTeamExperience: SUCCESS, 0
+addTeam: SUCCESS
+addContestant: SUCCESS
+addTeam: SUCCESS
+getContestantMissionsNumber: SUCCESS, 10
+getIthCollectiveMotivationTeam: SUCCESS, 905
+addContestant: SUCCESS
+removeTeam: FAILURE
+getTeamExperience: SUCCESS, 3
+removeTeam: SUCCESS
+recruit: SUCCESS
+addContestant: SUCCESS
+getContestantMissionsNumber: SUCCESS, 9
+getContestantMissionsNumber: SUCCESS, 0
+getPartialTeamSkill: FAILURE
+removeTeam: FAILURE
+getContestantMissionsNumber: FAILURE
+addTeam: SUCCESS
+addContestant: SUCCESS
+addContestant: SUCCESS
+getContestantMissionsNumber: SUCCESS, 10
+getPartialTeamSkill: SUCCESS, [28,6;40,54]
+recruit: SUCCESS
+addTeam: SUCCESS
+addTeam: SUCCESS
+recruit: SUCCESS
+removeTeam: SUCCESS
+addContestant: SUCCESS
+getIthCollectiveMotivationTeam: FAILURE
+recruit: FAILURE
+recruit: SUCCESS
+addTeam: SUCCESS
+getTeamExperience: SUCCESS, 6
+addContestant: SUCCESS
+getPartialTeamSkill: SUCCESS, [4725,4350;1233,1118]
+addContestant: SUCCESS
+removeTeam: FAILURE
+recruit: SUCCESS
+getPartialTeamSkill: SUCCESS, [19981,7056;32203,9339]
+getContestantMissionsNumber: SUCCESS, 0
+addTeam: SUCCESS
+getTeamExperience: SUCCESS, 0
+recruit: SUCCESS
+getTeamExperience: SUCCESS, 0
+getIthCollectiveMotivationTeam: FAILURE
+removeTeam: SUCCESS
+duel: SUCCESS, 1
+recruit: SUCCESS
+recruit: FAILURE
+removeTeam: SUCCESS
+duel: SUCCESS, 3
+getTeamExperience: FAILURE
+recruit: FAILURE
+addTeam: SUCCESS
+recruit: SUCCESS
+getTeamExperience: SUCCESS, 3
+addContestant: SUCCESS
+recruit: FAILURE
+getPartialTeamSkill: SUCCESS, [9,1;10,7]
+duel: FAILURE
+getIthCollectiveMotivationTeam: SUCCESS, 935
+getPartialTeamSkill: FAILURE
+recruit: FAILURE
+addTeam: SUCCESS
+duel: FAILURE
+getIthCollectiveMotivationTeam: SUCCESS, 184
+removeTeam: SUCCESS
+getContestantMissionsNumber: SUCCESS, 7
+removeTeam: SUCCESS
+addContestant: SUCCESS
+removeTeam: SUCCESS
+recruit: SUCCESS
+addContestant: SUCCESS
+recruit: FAILURE
+addContestant: SUCCESS
+recruit: FAILURE
+getIthCollectiveMotivationTeam: SUCCESS, 408
+addContestant: SUCCESS
+addTeam: SUCCESS
+addTeam: SUCCESS
+addContestant: SUCCESS
+addTeam: SUCCESS
+getContestantMissionsNumber: FAILURE
+getTeamExperience: SUCCESS, 0
+getIthCollectiveMotivationTeam: SUCCESS, 195
+getIthCollectiveMotivationTeam: SUCCESS, 86
+addTeam: SUCCESS
+getContestantMissionsNumber: SUCCESS, 1
+getContestantMissionsNumber: SUCCESS, 8
+duel: FAILURE
+addContestant: SUCCESS
+getContestantMissionsNumber: SUCCESS, 6
+getPartialTeamSkill: SUCCESS, [58,35;64,42]
+removeTeam: SUCCESS
+addContestant: FAILURE
+getTeamExperience: SUCCESS, 0
+removeTeam: SUCCESS
+getTeamExperience: SUCCESS, 0
+getPartialTeamSkill: FAILURE
+getContestantMissionsNumber: SUCCESS, 4
+recruit: FAILURE
+removeTeam: SUCCESS
+recruit: FAILURE
+removeTeam: SUCCESS
+removeTeam: FAILURE
+removeTeam: SUCCESS
+duel: FAILURE
+addContestant: SUCCESS
+recruit: FAILURE
+getPartialTeamSkill: FAILURE
+duel: FAILURE
+addContestant: SUCCESS
+addContestant: SUCCESS
+addContestant: SUCCESS
+getContestantMissionsNumber: SUCCESS, 2
+getIthCollectiveMotivationTeam: SUCCESS, 861
+addTeam: SUCCESS
+addTeam: SUCCESS
+duel: SUCCESS, 3
+addContestant: SUCCESS
+getPartialTeamSkill: SUCCESS, [4725,4350;1233,1118]
+recruit: FAILURE
+addTeam: SUCCESS
+addContestant: SUCCESS
+recruit: FAILURE
+getPartialTeamSkill: FAILURE
+getTeamExperience: FAILURE
+getTeamExperience: SUCCESS, 3
+getIthCollectiveMotivationTeam: SUCCESS, 459
+addTeam: SUCCESS
+addContestant: SUCCESS
+addTeam: SUCCESS
+getTeamExperience: SUCCESS, 0
+addTeam: SUCCESS
+getIthCollectiveMotivationTeam: SUCCESS, 686
+getTeamExperience: SUCCESS, 0
+duel: FAILURE
+duel: FAILURE
+getTeamExperience: SUCCESS, 0
+getIthCollectiveMotivationTeam: SUCCESS, 126
+getTeamExperience: SUCCESS, 0
+getIthCollectiveMotivationTeam: SUCCESS, 442
+addTeam: SUCCESS
+getPartialTeamSkill: FAILURE
+removeTeam: SUCCESS
+getPartialTeamSkill: SUCCESS, [54,51;846,751]
+getTeamExperience: SUCCESS, 3
+duel: FAILURE
+removeTeam: SUCCESS
+addTeam: SUCCESS
+removeTeam: SUCCESS
+recruit: FAILURE
+getPartialTeamSkill: FAILURE
+getContestantMissionsNumber: SUCCESS, 2
+removeTeam: SUCCESS
+getIthCollectiveMotivationTeam: SUCCESS, 611
+duel: FAILURE
+getPartialTeamSkill: SUCCESS, [4,4;9,10]
+getContestantMissionsNumber: FAILURE
+addTeam: SUCCESS
+addContestant: SUCCESS
+recruit: FAILURE
+duel: FAILURE
+getTeamExperience: SUCCESS, 0
+removeTeam: SUCCESS
+getIthCollectiveMotivationTeam: SUCCESS, 442
+removeTeam: SUCCESS
+getIthCollectiveMotivationTeam: SUCCESS, 408
+getPartialTeamSkill: FAILURE
+recruit: FAILURE
+getTeamExperience: SUCCESS, 0
+getContestantMissionsNumber: SUCCESS, 3
+addContestant: SUCCESS
+recruit: SUCCESS
+getPartialTeamSkill: SUCCESS, [3024,882;1152,96]
+getIthCollectiveMotivationTeam: SUCCESS, 284
+recruit: SUCCESS
+getTeamExperience: SUCCESS, 3
+addContestant: SUCCESS
+addContestant: SUCCESS
+getIthCollectiveMotivationTeam: SUCCESS, 260
+addContestant: SUCCESS
+duel: INVALID_INPUT
+getPartialTeamSkill: FAILURE
+getIthCollectiveMotivationTeam: SUCCESS, 488
+recruit: INVALID_INPUT
+getIthCollectiveMotivationTeam: SUCCESS, 126
+duel: FAILURE
+getPartialTeamSkill: FAILURE
+duel: FAILURE
+getTeamExperience: FAILURE
+getIthCollectiveMotivationTeam: SUCCESS, 126
+duel: FAILURE
+addTeam: SUCCESS
+recruit: INVALID_INPUT
+getContestantMissionsNumber: SUCCESS, 6
+recruit: FAILURE
+getIthCollectiveMotivationTeam: SUCCESS, 126
+getTeamExperience: FAILURE
+recruit: FAILURE
+addContestant: FAILURE
+recruit: FAILURE
+getIthCollectiveMotivationTeam: SUCCESS, 126
+getTeamExperience: FAILURE
+getContestantMissionsNumber: SUCCESS, 3
+getPartialTeamSkill: FAILURE
+recruit: FAILURE
+getPartialTeamSkill: FAILURE
+getPartialTeamSkill: FAILURE
+getPartialTeamSkill: FAILURE
+addTeam: SUCCESS
+getPartialTeamSkill: SUCCESS, [7512,11592;7242,11166]
+getContestantMissionsNumber: FAILURE
+addTeam: SUCCESS
+duel: FAILURE
+removeTeam: SUCCESS
+getTeamExperience: SUCCESS, 0
+getIthCollectiveMotivationTeam: SUCCESS, 488
+getTeamExperience: FAILURE
+getIthCollectiveMotivationTeam: SUCCESS, 488
+getTeamExperience: SUCCESS, 0
+getPartialTeamSkill: FAILURE
+getTeamExperience: SUCCESS, 0
+recruit: INVALID_INPUT
+getPartialTeamSkill: FAILURE
+addContestant: FAILURE
+getIthCollectiveMotivationTeam: SUCCESS, 126
+addContestant: FAILURE
+removeTeam: FAILURE
+getContestantMissionsNumber: SUCCESS, 7
+getPartialTeamSkill: FAILURE
+getTeamExperience: FAILURE
+recruit: FAILURE
+getPartialTeamSkill: FAILURE
+addTeam: SUCCESS
+getPartialTeamSkill: SUCCESS, [1680,9072;2018,10950]
+removeTeam: SUCCESS
+duel: FAILURE
+recruit: FAILURE
+removeTeam: FAILURE
+recruit: FAILURE
+getTeamExperience: FAILURE
+getContestantMissionsNumber: SUCCESS, 2
+addTeam: SUCCESS
+getContestantMissionsNumber: SUCCESS, 5
+getIthCollectiveMotivationTeam: SUCCESS, 408
+getContestantMissionsNumber: SUCCESS, 0
+addTeam: SUCCESS
+getIthCollectiveMotivationTeam: SUCCESS, 549
+getTeamExperience: SUCCESS, 0
+removeTeam: SUCCESS
+getPartialTeamSkill: FAILURE
+addContestant: SUCCESS
+getIthCollectiveMotivationTeam: SUCCESS, 260
+duel: INVALID_INPUT
+duel: INVALID_INPUT
+duel: INVALID_INPUT
+removeTeam: SUCCESS
+getIthCollectiveMotivationTeam: SUCCESS, 126
+addContestant: FAILURE
+recruit: FAILURE
+recruit: FAILURE
+addTeam: SUCCESS
+getContestantMissionsNumber: SUCCESS, 6
+addContestant: SUCCESS
+getContestantMissionsNumber: SUCCESS, 10
+getIthCollectiveMotivationTeam: SUCCESS, 323
+getIthCollectiveMotivationTeam: SUCCESS, 260
+getIthCollectiveMotivationTeam: SUCCESS, 126
+recruit: INVALID_INPUT
+getTeamExperience: FAILURE
+getContestantMissionsNumber: SUCCESS, 10
+getTeamExperience: FAILURE
+duel: FAILURE
+removeTeam: FAILURE
+getIthCollectiveMotivationTeam: SUCCESS, 126
+duel: FAILURE
+recruit: FAILURE
+getTeamExperience: FAILURE
+getTeamExperience: FAILURE
+getTeamExperience: FAILURE
+getPartialTeamSkill: FAILURE
+duel: FAILURE
+duel: FAILURE
+addContestant: FAILURE
+duel: FAILURE
+addContestant: SUCCESS
+getTeamExperience: FAILURE
+recruit: FAILURE
+getPartialTeamSkill: SUCCESS, [3024,882;1152,96]
+getPartialTeamSkill: FAILURE
+removeTeam: FAILURE
+addTeam: SUCCESS
+addContestant: SUCCESS
+getTeamExperience: SUCCESS, 0
+getPartialTeamSkill: FAILURE
+addContestant: FAILURE
+addContestant: SUCCESS
+recruit: INVALID_INPUT
+removeTeam: FAILURE
+recruit: FAILURE
+getTeamExperience: FAILURE
+getContestantMissionsNumber: FAILURE
+getIthCollectiveMotivationTeam: SUCCESS, 126
+recruit: FAILURE
+duel: FAILURE
+duel: FAILURE
+removeTeam: FAILURE
+addContestant: FAILURE
+getPartialTeamSkill: SUCCESS, [20,38;87,63]
+getIthCollectiveMotivationTeam: SUCCESS, 126
+addContestant: FAILURE
+getPartialTeamSkill: SUCCESS, [26624,29565;12239,1488]
+getContestantMissionsNumber: SUCCESS, 6
+removeTeam: FAILURE
+getPartialTeamSkill: SUCCESS, [802,465;912,530]
+getPartialTeamSkill: FAILURE
+getContestantMissionsNumber: SUCCESS, 3
+recruit: FAILURE
+addContestant: FAILURE
+removeTeam: FAILURE
+getContestantMissionsNumber: FAILURE
+duel: FAILURE
+removeTeam: FAILURE
+addTeam: SUCCESS
+removeTeam: FAILURE
+addTeam: SUCCESS
+getIthCollectiveMotivationTeam: SUCCESS, 126
+addContestant: SUCCESS
+recruit: SUCCESS
+getPartialTeamSkill: FAILURE
+getTeamExperience: SUCCESS, 0
+getPartialTeamSkill: FAILURE
+getPartialTeamSkill: SUCCESS, [7512,11592;7242,11166]
+addTeam: FAILURE
+duel: SUCCESS, 3
+recruit: SUCCESS
+getPartialTeamSkill: SUCCESS, [20,38;87,63]
+duel: INVALID_INPUT
+removeTeam: SUCCESS
+getContestantMissionsNumber: SUCCESS, 1
+getContestantMissionsNumber: SUCCESS, 1
+getIthCollectiveMotivationTeam: SUCCESS, 126
+getIthCollectiveMotivationTeam: SUCCESS, 126
+getIthCollectiveMotivationTeam: SUCCESS, 126
+duel: FAILURE
+recruit: FAILURE
+recruit: FAILURE
+duel: FAILURE
+recruit: FAILURE
+duel: FAILURE
+getTeamExperience: FAILURE
+duel: FAILURE
+getContestantMissionsNumber: FAILURE
+addContestant: FAILURE
+getTeamExperience: FAILURE
+recruit: FAILURE
+addTeam: SUCCESS
+addTeam: SUCCESS
+getIthCollectiveMotivationTeam: SUCCESS, 11
+recruit: FAILURE
+getIthCollectiveMotivationTeam: SUCCESS, 126
+removeTeam: SUCCESS
+getTeamExperience: FAILURE
+addTeam: SUCCESS
+getContestantMissionsNumber: SUCCESS, 8
+removeTeam: SUCCESS
+recruit: FAILURE
+addContestant: FAILURE
+recruit: FAILURE
+duel: FAILURE
+getIthCollectiveMotivationTeam: SUCCESS, 11
+getPartialTeamSkill: FAILURE
+addTeam: SUCCESS
+removeTeam: FAILURE
+getPartialTeamSkill: FAILURE
+removeTeam: SUCCESS
+getIthCollectiveMotivationTeam: SUCCESS, 11
+duel: FAILURE
+getTeamExperience: FAILURE
+getPartialTeamSkill: SUCCESS, [4,1;5,9]
+duel: FAILURE
+getTeamExperience: FAILURE
+addTeam: SUCCESS
+getPartialTeamSkill: SUCCESS, [10,5;3,1]
+getPartialTeamSkill: FAILURE
+removeTeam: SUCCESS
+getPartialTeamSkill: FAILURE
+getContestantMissionsNumber: SUCCESS, 3
+addContestant: FAILURE
+getPartialTeamSkill: FAILURE
+removeTeam: FAILURE
+recruit: FAILURE
+duel: FAILURE
+duel: FAILURE
+getPartialTeamSkill: SUCCESS, [8,6;7,6]
+getContestantMissionsNumber: SUCCESS, 12
+getContestantMissionsNumber: FAILURE
+getIthCollectiveMotivationTeam: SUCCESS, 11
+removeTeam: FAILURE
+getIthCollectiveMotivationTeam: SUCCESS, 11
+getTeamExperience: FAILURE
+recruit: FAILURE
+getPartialTeamSkill: SUCCESS, [21,84;31,91]
+getTeamExperience: FAILURE
+getTeamExperience: FAILURE
+recruit: FAILURE
+recruit: FAILURE
+getPartialTeamSkill: FAILURE
+getTeamExperience: FAILURE
+duel: FAILURE
+getPartialTeamSkill: FAILURE
+recruit: FAILURE
+removeTeam: FAILURE
+getContestantMissionsNumber: FAILURE
+duel: FAILURE
+duel: FAILURE
+getPartialTeamSkill: FAILURE
+removeTeam: FAILURE
+getContestantMissionsNumber: SUCCESS, 9
+getContestantMissionsNumber: FAILURE
+getIthCollectiveMotivationTeam: SUCCESS, 11
+getContestantMissionsNumber: SUCCESS, 10
+removeTeam: FAILURE
+getContestantMissionsNumber: FAILURE
+addContestant: FAILURE
+addTeam: SUCCESS
+getTeamExperience: SUCCESS, 0
+addContestant: SUCCESS
+getContestantMissionsNumber: FAILURE
+removeTeam: SUCCESS
+getPartialTeamSkill: FAILURE
+addTeam: SUCCESS
+removeTeam: SUCCESS
+recruit: FAILURE
+addTeam: SUCCESS
+getIthCollectiveMotivationTeam: SUCCESS, 260
+getIthCollectiveMotivationTeam: SUCCESS, 260
+getIthCollectiveMotivationTeam: SUCCESS, 408
+getTeamExperience: SUCCESS, 0
+removeTeam: SUCCESS
+duel: FAILURE
+getTeamExperience: FAILURE
+getIthCollectiveMotivationTeam: SUCCESS, 11
+getTeamExperience: FAILURE
+addTeam: SUCCESS
+getPartialTeamSkill: FAILURE
+getPartialTeamSkill: FAILURE
+getTeamExperience: SUCCESS, 0
+duel: FAILURE
+getTeamExperience: FAILURE
+getTeamExperience: SUCCESS, 0
+addContestant: SUCCESS
+getContestantMissionsNumber: FAILURE
+recruit: INVALID_INPUT
+removeTeam: FAILURE
+addTeam: SUCCESS
+getIthCollectiveMotivationTeam: SUCCESS, 126
+getIthCollectiveMotivationTeam: SUCCESS, 323
+addContestant: SUCCESS
+addTeam: SUCCESS
+getPartialTeamSkill: FAILURE
+removeTeam: SUCCESS
+recruit: INVALID_INPUT
+addContestant: FAILURE
+getContestantMissionsNumber: SUCCESS, 4
+addTeam: SUCCESS
+getContestantMissionsNumber: SUCCESS, 9
+recruit: FAILURE
+addTeam: SUCCESS
+recruit: INVALID_INPUT
+removeTeam: FAILURE
+addContestant: FAILURE
+getTeamExperience: FAILURE
+duel: FAILURE
+getIthCollectiveMotivationTeam: SUCCESS, 11
+addContestant: FAILURE
+getTeamExperience: FAILURE
+addTeam: SUCCESS
+getPartialTeamSkill: FAILURE
+getPartialTeamSkill: FAILURE
+removeTeam: SUCCESS
+getIthCollectiveMotivationTeam: SUCCESS, 11
+duel: FAILURE
+getContestantMissionsNumber: SUCCESS, 6
+recruit: FAILURE
+getTeamExperience: FAILURE
+getIthCollectiveMotivationTeam: SUCCESS, 11
+getContestantMissionsNumber: SUCCESS, 0
+getIthCollectiveMotivationTeam: SUCCESS, 11
+getContestantMissionsNumber: FAILURE
+addContestant: FAILURE
+removeTeam: FAILURE
+getIthCollectiveMotivationTeam: SUCCESS, 11
+recruit: FAILURE
+getContestantMissionsNumber: SUCCESS, 5
+getContestantMissionsNumber: SUCCESS, 10
+addContestant: FAILURE
+getTeamExperience: FAILURE
+getPartialTeamSkill: SUCCESS, [10,9;9,9]
+getContestantMissionsNumber: SUCCESS, 5
+getPartialTeamSkill: FAILURE
+getIthCollectiveMotivationTeam: SUCCESS, 11
+recruit: FAILURE
+addTeam: SUCCESS
+addTeam: SUCCESS
+removeTeam: SUCCESS
+recruit: INVALID_INPUT
+getContestantMissionsNumber: SUCCESS, 10
+addContestant: FAILURE
+getContestantMissionsNumber: FAILURE
+addContestant: FAILURE
+getContestantMissionsNumber: FAILURE
+getIthCollectiveMotivationTeam: SUCCESS, 11
+getIthCollectiveMotivationTeam: SUCCESS, 11
+getContestantMissionsNumber: SUCCESS, 8
+addContestant: FAILURE
+duel: FAILURE
+removeTeam: FAILURE
+getPartialTeamSkill: FAILURE
+duel: FAILURE
+getIthCollectiveMotivationTeam: SUCCESS, 11
+addTeam: SUCCESS
+recruit: INVALID_INPUT
+getIthCollectiveMotivationTeam: SUCCESS, 11
+recruit: FAILURE
+addContestant: FAILURE
+duel: FAILURE
+getContestantMissionsNumber: FAILURE
+getContestantMissionsNumber: FAILURE
+removeTeam: FAILURE
+getPartialTeamSkill: FAILURE
+getTeamExperience: FAILURE
+getTeamExperience: FAILURE
+getContestantMissionsNumber: SUCCESS, 1
+duel: FAILURE
+getTeamExperience: FAILURE
+removeTeam: FAILURE
+getContestantMissionsNumber: SUCCESS, 2
+removeTeam: FAILURE
+addTeam: SUCCESS
+addTeam: SUCCESS
+getContestantMissionsNumber: SUCCESS, 0
+getIthCollectiveMotivationTeam: SUCCESS, 387
+duel: FAILURE
+addContestant: SUCCESS
+getContestantMissionsNumber: FAILURE
+addContestant: SUCCESS
+getTeamExperience: SUCCESS, 0
+getIthCollectiveMotivationTeam: SUCCESS, 390
+getTeamExperience: FAILURE
+getTeamExperience: SUCCESS, 0
+removeTeam: SUCCESS
+getIthCollectiveMotivationTeam: SUCCESS, 323
+removeTeam: SUCCESS
+getPartialTeamSkill: FAILURE
+recruit: FAILURE
+removeTeam: FAILURE
+recruit: FAILURE
+removeTeam: FAILURE
+getContestantMissionsNumber: SUCCESS, 8
+recruit: FAILURE
+getTeamExperience: FAILURE
+getContestantMissionsNumber: FAILURE
+duel: FAILURE
+recruit: FAILURE
+getIthCollectiveMotivationTeam: SUCCESS, 11
+duel: FAILURE
+removeTeam: FAILURE
+addTeam: SUCCESS
+removeTeam: SUCCESS
+removeTeam: FAILURE
+removeTeam: FAILURE
+getTeamExperience: FAILURE
+getIthCollectiveMotivationTeam: SUCCESS, 11
+getIthCollectiveMotivationTeam: SUCCESS, 11
+addContestant: FAILURE
+addTeam: SUCCESS
+getIthCollectiveMotivationTeam: SUCCESS, 323
+addContestant: SUCCESS
+getContestantMissionsNumber: SUCCESS, 3
+getTeamExperience: FAILURE
+addTeam: SUCCESS
+getIthCollectiveMotivationTeam: SUCCESS, 241
+duel: FAILURE
+getIthCollectiveMotivationTeam: SUCCESS, 241
+removeTeam: SUCCESS
+getTeamExperience: FAILURE
+duel: INVALID_INPUT
+getIthCollectiveMotivationTeam: SUCCESS, 260
+removeTeam: SUCCESS
+getPartialTeamSkill: FAILURE
+getIthCollectiveMotivationTeam: SUCCESS, 11
+getContestantMissionsNumber: SUCCESS, 9
+removeTeam: FAILURE
+getPartialTeamSkill: FAILURE
+recruit: FAILURE
+getTeamExperience: FAILURE
+getIthCollectiveMotivationTeam: SUCCESS, 11
+removeTeam: FAILURE
+getTeamExperience: FAILURE
+duel: FAILURE
+getPartialTeamSkill: FAILURE
+getPartialTeamSkill: SUCCESS, [22567,31229;15805,25758]
+getTeamExperience: FAILURE
+duel: FAILURE
+getPartialTeamSkill: SUCCESS, [26223,23789;14542,6897]
+getPartialTeamSkill: SUCCESS, [802,465;912,530]
+recruit: FAILURE
+recruit: FAILURE
+addContestant: FAILURE
+removeTeam: FAILURE
+duel: FAILURE
+getIthCollectiveMotivationTeam: SUCCESS, 11
+addContestant: FAILURE
+getIthCollectiveMotivationTeam: SUCCESS, 11
+recruit: FAILURE
+addContestant: FAILURE
+addTeam: SUCCESS
+removeTeam: SUCCESS
+getIthCollectiveMotivationTeam: SUCCESS, 11
+getPartialTeamSkill: SUCCESS, [70,43;80,36]
+getTeamExperience: FAILURE
+getTeamExperience: FAILURE
+getPartialTeamSkill: FAILURE
+getIthCollectiveMotivationTeam: SUCCESS, 11
+addTeam: SUCCESS
+getContestantMissionsNumber: FAILURE
+getPartialTeamSkill: FAILURE
+duel: INVALID_INPUT
+duel: INVALID_INPUT
+getTeamExperience: SUCCESS, 0
+getContestantMissionsNumber: SUCCESS, 3
+addTeam: SUCCESS
+getContestantMissionsNumber: SUCCESS, 8
+removeTeam: SUCCESS
+getContestantMissionsNumber: SUCCESS, 1
+addTeam: SUCCESS
+addTeam: SUCCESS
+getTeamExperience: SUCCESS, 0
+addTeam: SUCCESS
+duel: FAILURE
+removeTeam: SUCCESS
+removeTeam: FAILURE
+getTeamExperience: SUCCESS, 0
+recruit: FAILURE
+addTeam: SUCCESS
+addTeam: SUCCESS
+addContestant: SUCCESS
+addTeam: SUCCESS
+getContestantMissionsNumber: SUCCESS, 8
+getPartialTeamSkill: SUCCESS, [1,2;4,7]
+getTeamExperience: SUCCESS, 0
+getPartialTeamSkill: SUCCESS, [1680,9072;2018,10950]
+getContestantMissionsNumber: SUCCESS, 2
+addTeam: SUCCESS
+getTeamExperience: SUCCESS, 0
+addTeam: SUCCESS
+getContestantMissionsNumber: SUCCESS, 4
+getTeamExperience: SUCCESS, 0
+addTeam: SUCCESS
+addContestant: SUCCESS
+getPartialTeamSkill: SUCCESS, [8,8;6,10]
+recruit: FAILURE
+removeTeam: SUCCESS
+getPartialTeamSkill: FAILURE
+getIthCollectiveMotivationTeam: SUCCESS, 429
+getIthCollectiveMotivationTeam: SUCCESS, 429
+getIthCollectiveMotivationTeam: SUCCESS, 260
+recruit: FAILURE
+getTeamExperience: SUCCESS, 0
+getTeamExperience: SUCCESS, 0
+getPartialTeamSkill: SUCCESS, [19981,7056;32203,9339]
+getIthCollectiveMotivationTeam: SUCCESS, 126
+getPartialTeamSkill: FAILURE
+addContestant: SUCCESS
+addContestant: SUCCESS
+removeTeam: SUCCESS
+getIthCollectiveMotivationTeam: SUCCESS, 323
+getContestantMissionsNumber: SUCCESS, 9
+getContestantMissionsNumber: SUCCESS, 1
+addTeam: SUCCESS
+addContestant: SUCCESS
+getIthCollectiveMotivationTeam: SUCCESS, 126
+getContestantMissionsNumber: SUCCESS, 4
+recruit: FAILURE
+getContestantMissionsNumber: FAILURE
+duel: FAILURE
+getTeamExperience: SUCCESS, 0
+removeTeam: SUCCESS
+recruit: FAILURE
+getTeamExperience: SUCCESS, 0
+getContestantMissionsNumber: FAILURE
+recruit: FAILURE
+addTeam: SUCCESS
+removeTeam: SUCCESS
+removeTeam: SUCCESS
+getTeamExperience: SUCCESS, 0
+getContestantMissionsNumber: SUCCESS, 10
+getContestantMissionsNumber: SUCCESS, 1
+addContestant: SUCCESS
+addTeam: SUCCESS
+recruit: FAILURE
+getIthCollectiveMotivationTeam: SUCCESS, 11
+getIthCollectiveMotivationTeam: SUCCESS, 390
+getContestantMissionsNumber: SUCCESS, 3
+getIthCollectiveMotivationTeam: SUCCESS, 11
+getContestantMissionsNumber: SUCCESS, 4
+addContestant: SUCCESS
+addTeam: SUCCESS
+addTeam: SUCCESS
+addTeam: SUCCESS
+getPartialTeamSkill: FAILURE
+getContestantMissionsNumber: SUCCESS, 7
+getPartialTeamSkill: FAILURE
+getIthCollectiveMotivationTeam: SUCCESS, 260
+recruit: FAILURE
+duel: FAILURE
+addContestant: SUCCESS
+removeTeam: SUCCESS
+getPartialTeamSkill: SUCCESS, [7,4;4,8]
+removeTeam: SUCCESS
+getIthCollectiveMotivationTeam: SUCCESS, 126
+duel: FAILURE
+removeTeam: SUCCESS
+getTeamExperience: SUCCESS, 0
+addTeam: SUCCESS
+removeTeam: SUCCESS
+recruit: INVALID_INPUT
+getTeamExperience: FAILURE
+removeTeam: FAILURE
+removeTeam: FAILURE
+getIthCollectiveMotivationTeam: SUCCESS, 11
+duel: FAILURE
+getPartialTeamSkill: SUCCESS, [5170,30263;7597,19993]
+getIthCollectiveMotivationTeam: SUCCESS, 11
+getPartialTeamSkill: SUCCESS, [19981,7056;32203,9339]
+addTeam: SUCCESS
+duel: INVALID_INPUT
+getTeamExperience: SUCCESS, 0
+getContestantMissionsNumber: SUCCESS, 3
+addTeam: SUCCESS
+getIthCollectiveMotivationTeam: SUCCESS, 241
+getPartialTeamSkill: FAILURE
+addTeam: SUCCESS
+recruit: FAILURE
+getIthCollectiveMotivationTeam: SUCCESS, 323
+getPartialTeamSkill: FAILURE
+getContestantMissionsNumber: FAILURE
+getTeamExperience: SUCCESS, 0
+getIthCollectiveMotivationTeam: SUCCESS, 323
+getTeamExperience: SUCCESS, 0
+getTeamExperience: SUCCESS, 0
+getContestantMissionsNumber: SUCCESS, 5
+getIthCollectiveMotivationTeam: SUCCESS, 11
+getPartialTeamSkill: FAILURE
+removeTeam: FAILURE
+duel: FAILURE
+duel: FAILURE
+getContestantMissionsNumber: SUCCESS, 2
+recruit: FAILURE
+getPartialTeamSkill: SUCCESS, [294,378;32,144]
+getIthCollectiveMotivationTeam: SUCCESS, 241
+getTeamExperience: SUCCESS, 0
+duel: FAILURE
+getIthCollectiveMotivationTeam: SUCCESS, 260
+getTeamExperience: SUCCESS, 0
+addContestant: SUCCESS
+addContestant: SUCCESS
+getIthCollectiveMotivationTeam: SUCCESS, 126
+getIthCollectiveMotivationTeam: SUCCESS, 241
+getTeamExperience: SUCCESS, 0
+recruit: FAILURE
+getIthCollectiveMotivationTeam: SUCCESS, 241
+recruit: INVALID_INPUT
+getContestantMissionsNumber: FAILURE
+getTeamExperience: FAILURE
+getTeamExperience: FAILURE
+addTeam: SUCCESS
+addTeam: SUCCESS
+addTeam: SUCCESS
+getIthCollectiveMotivationTeam: SUCCESS, 303
+getContestantMissionsNumber: FAILURE
+recruit: FAILURE
+recruit: FAILURE
+recruit: FAILURE
+recruit: INVALID_INPUT
+getPartialTeamSkill: FAILURE
+getContestantMissionsNumber: SUCCESS, 3
+addTeam: SUCCESS
+getPartialTeamSkill: FAILURE
+getIthCollectiveMotivationTeam: SUCCESS, 241
+duel: INVALID_INPUT
+getContestantMissionsNumber: SUCCESS, 10
+addTeam: SUCCESS
+addTeam: SUCCESS
+removeTeam: SUCCESS
+duel: FAILURE
+getPartialTeamSkill: SUCCESS, [10,5;3,1]
+getTeamExperience: SUCCESS, 0
